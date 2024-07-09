@@ -22,9 +22,9 @@ que permita convertir montos en bolivianos, argentinos, brasileños a dólares a
 
 ## Ejemplo
 
-![Consultas](src/imagenes/1.png)
-![Ingreso de  moneda](src/imagenes/2.jpeg)
-![Resultado](src/imagenes/3.jpeg)
+![Consultas](src/Imagenes/1.png)
+![Ingreso de  moneda](src/Imagenes/2.jpeg)
+![Resultado](src/Imagenes/3.jpeg)
 
 ## Se utilizo la API
 https://app.exchangerate-api.com/keys
