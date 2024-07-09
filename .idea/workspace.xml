@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3145312-5782-48c8-925b-f3095c23b0be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Imagenes/1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Imagenes/2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Imagenes/3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversor-Moneda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/conversor-Moneda.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Convertidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Convertidor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HttpCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HttpCliente.java" afterDir="false" />
-    </list>
+    <list default="true" id="d3145312-5782-48c8-925b-f3095c23b0be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
